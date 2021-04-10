@@ -12,6 +12,5 @@
  For second layer ,I apply softmax function.
  
 ## KNearestNeighbour
-Number of Nearest Neighbour under consideration =50 for better prediction.(Correction Required: k=5)
-For K=5: Accuracy = 95.9 % 
+Number of Nearest Neighbour under consideration =50 for better prediction.(Correction Required: k=5) 
 Note: Pridicting a value at a time. 
