@@ -16,7 +16,16 @@
  
 ## KNearestNeighbour
 Number of Nearest Neighbour under consideration =5
-Accuracy = 93.63 %
+My model Accuracy = 93.63 %
+Accuracy from Scikit learn = 95.90%
+
+## Tech Stack Used :
+     1)Liberaries--Numpy , Pandas , Matplotlib
+     2)Jupyter Notebook
+     3) Google Colab
+
+## Programming Language Used : Python
+
 ### Note:
          1) KNN WOC  is file with accuracy functions.
          2)Pridicting a value at a time using function 'plotimg'. 
