@@ -15,5 +15,5 @@
 Number of Nearest Neighbour under consideration =5
 Accuracy = 93.63 %
 ### Note:
-         1) KNN WOC (COMMENT: KNN WOC) is file with accuracy functions.
+         1) KNN WOC  is file with accuracy functions.
          2)Pridicting a value at a time using function 'plotimg'. 
