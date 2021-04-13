@@ -1,5 +1,8 @@
 # mlbootcamp
 
+### About Dataset:
+                 1)Training and Testing datasets are MNIST Datasets with 28 X 28 px handwritten number image unit.
+                 2)Training Dataset =(19999,785) & Testing Dataset =(9999,795) 
 ## Neural Network
  Learning Rate=0.01
  Accuracy = 87.89 % after 500 itelatration.
